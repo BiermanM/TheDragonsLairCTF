@@ -1,0 +1,14 @@
+Red Team
+0
+1
+0
+
+Blue Team
+0
+1
+0
+
+# Team
+# Level
+# Progress in Level
+# Total Hints Used
